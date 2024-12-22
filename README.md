@@ -1,7 +1,7 @@
 ## Домены
 
 - Vercel: https://conclusion-punkt-b.vercel.app
-- Пункт Б: https://conclusion.punkt-b.pro
+- Пункт Б: https://conclusion.punctb.pro
 
 ## Страницы
 
